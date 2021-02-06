@@ -1,7 +1,10 @@
 # Projects
 ## Quasar Weather
+### for Desktop (Linux - MacOs - Windows)
 ![](q-weather)
 
+### for Mobile (IOS - Android)
+![](q-weather-mobile.gif)
 
 ## Projects setup
 ### for Quasar Weather
