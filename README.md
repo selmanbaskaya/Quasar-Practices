@@ -1,6 +1,6 @@
 # Projects
 ## Quasar Weather
-![](q-weather.gif)
+![](q-weather)
 
 
 ## Projects setup
